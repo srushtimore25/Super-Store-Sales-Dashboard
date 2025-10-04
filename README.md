@@ -23,8 +23,6 @@ This objective is broken down into the following components:
 - **Payment Insights**: Sales by Payment Mode (Cards, COD, Online)  
 - **Shipping Insights**: Sales by Ship Mode (Standard, Second Class, First Class, Same Day)  
 
-## 📷 Dashboard Preview
-![Dashboard Screenshot](Images/dashboard_preview.png)
 
 ## 📂 Files in this Repository
 - `Super_Store_Sales.pbix` → Power BI project file  
